@@ -1,8 +1,8 @@
 # Golang Projects
 
-[Project 1 - CRM Backend Go](https://github.com/dattgoswami/CRM-Backend-Go) 
+[CRM Backend Go](https://github.com/dattgoswami/CRM-Backend-Go) 
 
-[Project 2 - CRM Backend Go InMemory](https://github.com/dattgoswami/CRM-Backend-Go-InMemory) 
+[CRM Backend Go InMemory](https://github.com/dattgoswami/CRM-Backend-Go-InMemory) 
 
 ## Looking into these
 
